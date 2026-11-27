@@ -41,3 +41,5 @@ while (actual !== null) {
 }
 
 console.log("Costo total del historial: $" + total);
+
+module.exports = Nodo;
